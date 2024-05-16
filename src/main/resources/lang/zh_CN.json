@@ -2600,7 +2600,7 @@
               "<yellow>单位为刻的合成时间.</yellow>",
               "<yellow>(20 刻 = 1 秒)</yellow>"
             ],
-            "message": "<yellow>Type in the cooking time in ticks. e.g. 20</yellow>"
+            "message": "<yellow>输入以刻为单位的烹饪时间. 比如20</yellow>"
           },
           "fluid_level": {
             "name": "<grey>\u270E</grey>  <gold><b>液体层数</b></gold>",
